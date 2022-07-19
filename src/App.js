@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Hello />
-      <Welcome />
+      <div className="box" >App</div>
       {/*<h1 style={{*/}
       {/*  color:"#f0f",*/}
       {/*  backgroundColor:"green",*/}
