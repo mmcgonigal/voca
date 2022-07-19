@@ -1,5 +1,6 @@
 import './App.css';
 import Hello from  "./component/Hello";
+import Welcome from "./component/Welcome"
 
 function App() {
    //  const name="mina";
@@ -10,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Hello />
-        <Welcome />
+      <Welcome />
       {/*<h1 style={{*/}
       {/*  color:"#f0f",*/}
       {/*  backgroundColor:"green",*/}
