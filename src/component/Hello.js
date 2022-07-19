@@ -7,6 +7,6 @@
 // export default Hello;
 
 export default function Hello(){
- return    <p>Hello</p>;
+ return <h1>Hello</h1>
 }
 

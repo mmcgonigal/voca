@@ -10,6 +10,7 @@ function App() {
   return (
     <div className="App">
       <Hello />
+        <Welcome />
       {/*<h1 style={{*/}
       {/*  color:"#f0f",*/}
       {/*  backgroundColor:"green",*/}
