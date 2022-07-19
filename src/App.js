@@ -1,13 +1,15 @@
 import './App.css';
+import Hello from  "./component/Hello";
 
 function App() {
    //  const name="mina";
-   // const naver = {
-   //     name : "naver",
+   // const 네이버 = {
+   //     name : "네이버",
    //     url : "https://naver.com"
    // }
   return (
     <div className="App">
+      <Hello />
       {/*<h1 style={{*/}
       {/*  color:"#f0f",*/}
       {/*  backgroundColor:"green",*/}
