@@ -37,8 +37,8 @@
   }
 }
 
-.box{
+.box {
   width:100px;
   height:100px;
-  background-color: thistle;
- }
+  background-color : red;
+}

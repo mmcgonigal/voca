@@ -1,6 +1,7 @@
 'use strict'
-import World from "./World";
-import "./Hello.css";
+import "./World";
+import  "./Hello.module.css";
+
 //
 // const Hello = function(){
 //     <p>hello</p>
@@ -14,12 +15,12 @@ export default function Hello(){
        <h1 style = {
            {
                color: "#f00",
-               borderRight: " 2px solid #000",
-               marginBottom: "30px",
-               opacity: 1
+               borderRight: " 12px solid #000",
+               marginBottom: "50px",
+               opacity: 0.5
            }
        }>Hello</h1>
-         <div className="box">Hello</div>
+         <div className="styles.box ">Hello</div>
      </div>
 );
 
